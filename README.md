@@ -4,4 +4,4 @@
 > https://thhwang.notion.site/HD-AI-5-271779f9322a80ff80b5efbec9ef4dbb
 
 ### [Quiz]
-> To be continued
+> https://docs.google.com/forms/d/e/1FAIpQLSfyZY5ekOQtKrlwG6bcPjm8iyibNhCUol5skyBPXajmqINVfQ/viewform?usp=dialog
