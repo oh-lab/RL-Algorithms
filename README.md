@@ -5,3 +5,6 @@
 
 ### [Quiz]
 > https://docs.google.com/forms/d/e/1FAIpQLSfyZY5ekOQtKrlwG6bcPjm8iyibNhCUol5skyBPXajmqINVfQ/viewform?usp=dialog
+
+### [발표자료 제출]
+> https://docs.google.com/forms/d/e/1FAIpQLScrxhX33PCJ4i-F0iAZenrmf5AEHZEYABfXl0HykPN9hZ4GeQ/viewform?usp=dialog
